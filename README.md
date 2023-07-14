@@ -6,7 +6,7 @@
 
 這是一款關於透過爬蟲自動抓取 [LINE Emoji](https://developers.line.biz/en/docs/messaging-api/emoji-list/#line-emoji-definitions) 的程式碼，起因動機為筆者正在練習串接 LINE Messaging API，在 [Text Message](https://developers.line.biz/en/reference/messaging-api/#text-message) 的格式裡可以放入 Emoji，故筆者想抓取圖片後，製作界面讓使用者可以透過 UI 選擇問顏文字，如下圖。
 
-![Emoji UI 選擇假想圖](/emoji-demo.png)
+![Emoji UI 選擇假想圖](/emoji-selector-demo.gif)
 
 當然這段程式碼可以將抓取的目標替換為任何你想抓取的目標，這段程式碼基本做下面幾件事情：
 
